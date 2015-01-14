@@ -1,0 +1,11 @@
+redis:
+    host: '127.0.0.1'
+    port: 6379
+    db: 0
+
+mysql:
+    host: "127.0.0.1"
+    database: momo 
+    user: root
+    password: "root"
+    time_zone: "+8:00"
